@@ -16,6 +16,7 @@ We will be sending out announcements through a mailing list; you can subscribe [
 
 * [Mikael Vejdemo-Johansson](https://www.math.csi.cuny.edu/~mvj), Computer Science Programme, CUNY Graduate Center; Department of Mathematics, CUNY College of Staten Island
 * [Azita Mayeli](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Mathematics/Faculty-Bios/Azita-Mayeli), Mathematics Programme, CUNY Graduate Center; Department of Mathematics, CUNY Queensborough Community College
+* Jordan Matuszewski, Computer Science Programme, CUNY Graduate Center (PhD student)
 
 ## Suggested papers
 
