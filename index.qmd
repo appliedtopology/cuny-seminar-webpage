@@ -1,0 +1,22 @@
+---
+title: "Data Science and Applied Topology Seminar"
+---
+
+The CUNY Data Science and Applied Topology Reading Group is joint between the Mathematics and Computer Science programmes. We meet Fridays 10.30 -- 11.30 in GC 5417. You can contact us at [cunygc@appliedtopology.nyc](cunygc@appliedtopology.nyc).
+
+Our plan is to primarily read and discuss seminal papers in data science, in applied topology and in topological data analysis. Each seminar one participant takes the responsibility to present a paper and prepare items for discussion. We expect occasionally to be able to invite external speakers.
+
+## Schedule
+
+[Current schedule](schedule.qmd) can be found here.
+
+We will be sending out announcements through a mailing list; you can subscribe [here](https://gc.listserv.cuny.edu/Scripts/wa-gc.exe?SUBED1=DATA-TOPOLOGY-L&A=1). 
+
+## Organizers
+
+* [Mikael Vejdemo-Johansson](https://www.math.csi.cuny.edu/~mvj), Computer Science Programme, CUNY Graduate Center; Department of Mathematics, CUNY College of Staten Island
+* [Azita Mayeli](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Mathematics/Faculty-Bios/Azita-Mayeli), Mathematics Programme, CUNY Graduate Center; Department of Mathematics, CUNY Queensborough Community College
+
+## Suggested papers
+
+We have compiled a [list of papers that might be interesting to present](reading.qmd).

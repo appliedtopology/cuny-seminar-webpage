@@ -1,0 +1,17 @@
+```{=html}
+<div class="list-group">
+<% for (const i in items) { %>
+<a href="<%= items[i].path %>" class="list-group-item">
+<div class="d-flex w-100 justify-content-between">
+ <div class="m-1 w-25">
+   <%= items[i].date %>
+ </div>
+ <div class="w-75">
+  <h5><%= items[i].title %></h5>
+  <h6><%= items[i].author %></h6>
+ </div>
+</div>
+</a>
+<% } %>
+</div>
+```

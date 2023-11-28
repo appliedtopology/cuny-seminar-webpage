@@ -1,0 +1,7 @@
+---
+title: "Seminar Archive"
+listing:
+  template: schedule.ejs
+  sort: date
+  contents: "archive/*"
+---

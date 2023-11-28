@@ -1,0 +1,7 @@
+---
+title: "Current Schedule"
+listing:
+  template: schedule.ejs
+  sort: date
+  contents: talks/*
+---

@@ -1,0 +1,73 @@
+---
+title: Reading List
+---
+
+# Suggested papers
+
+## Manifold Learning
+
+* Niyogi, Smale, Weinberger: [Finding the Homology of Submanifolds with High Confidence from Random Samples](http://people.cs.uchicago.edu/~niyogi/papersps/NiySmaWeiHom.pdf)
+* Tenenbaum, de Silva, Langford: [A Global Geometric Framework for Nonlinear Dimensionality Reduction](http://web.mit.edu/cocosci/isomap/isomap.html)
+
+## Graph Learning
+
+* Eldridge, Belkin, Wang: [Beyond Hartigan Consistency: Merge Distortion Metric for Hierarchical Clustering](http://www.jmlr.org/proceedings/papers/v40/Eldridge15.pdf)
+* Eldridge, Belkin, Wang: [Graphons, mergeons, and so on!](https://papers.nips.cc/paper/6089-graphons-mergeons-and-so-on.pdf​)
+* Parthasarathy, Sivakoff, Tian, Wang: [A Quest to Unravel the Metric Structure Behind Perturbed Networks](http://drops.dagstuhl.de/opus/volltexte/2017/7211/pdf/LIPIcs-SoCG-2017-53.pdf)
+
+## Topological Data Analysis
+
+### Surveys
+
+* Gunnar Carlsson: [Topology and Data](http://www.ams.org/bull/2009-46-02/S0273-0979-09-01249-X/S0273-0979-09-01249-X.pdf)
+* Robert Ghrist: [Barcodes: the persistent topology of data](http://www.ams.org/bull/2008-45-01/S0273-0979-07-01191-3/S0273-0979-07-01191-3.pdf)
+* Mikael Vejdemo-Johansson: [Sketches of a Platypus](http://www.ams.org/books/conm/620/12371)
+* Herbert Edelsbrunner, John Harer: [Persistent homology - a survey](http://cs233.stanford.edu/ReferencedPapers/2008-B-02-PersistentHomology.pdf)
+
+### Algorithmics
+
+* Edelsbrunner, Letscher, Zomorodian: [Topological persistence and simplification](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.369.973&rep=rep1&type=pdf)
+* Afra Zomorodian: [Fast construction of the Vietoris-Rips complex](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.450.9900&rep=rep1&type=pdf)
+* de Silva, Morozov, Vejdemo-Johansson: [Persistent cohomology and circular coordinates](http://link.springer.com/content/pdf/10.1007/s00454-011-9344-x.pdf)
+* de Silva, Morozov, Vejdemo-Johansson: [Dualities in persistent (co)homology](https://arxiv.org/pdf/1107.5665)
+* Chao Chen, Michael Kerber: [Persistent homology computation with a twist](https://eurocg11.inf.ethz.ch/abstracts/22.pdf)
+* Bauer, Kerber, Reininghaus: [Clear and compress: computing persistent homology in chunks](http://pub.ist.ac.at/~reininghaus/documents/bauer_chunk.pdf)
+* Milosavljevic, Morozov, Skraba: [Zigzag persistent homology in matrix multiplication time](http://people.mpi-inf.mpg.de/~nikolam/downloads/zzph-socg11.pdf)
+* Boissonat, Dey, Maria: [The compressed annotation matrix: an efficient data structure for computing persistent cohomology](https://arxiv.org/pdf/1304.6813)
+
+### Types of Persistent Homology
+
+* Afra Zomorodian, Gunnar Carlsson: [Computing persistent homology]()
+* Gunnar Carlsson, Vin de Silva: [Zigzag persistence](https://arxiv.org/pdf/0812.0197)
+* Gunnar Carlsson, Afra Zomorodian: [The theory of multidimensional persistence](http://link.springer.com/content/pdf/10.1007/s00454-009-9176-0.pdf)
+* Carlsson, Singh, Zomorodian: [Computing multidimensional persistence](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.313.7004&rep=rep1&type=pdf)
+* Burghelea, Dey: [Topological persistence for circle-valued maps](http://www.academia.edu/download/41421656/Topological_Persistence_for_Circle-Value20160122-21133-mwpc97.pdf)
+* Chambers, Letscher: [Persistent homology over directed acyclic graphs](https://arxiv.org/pdf/1407.2523)
+* Bubenik, Scott: [Categorification of persistent homology](https://arxiv.org/pdf/1205.3669)
+* Dey, Fan, Wang: [Computing Topological Persistence for Simplicial Maps](http://web.cse.ohio-state.edu/~wang.1016/papers/simplicial-map.pdf​)
+
+### Mapper
+
+* Lum, Singh, Lehman, Ishkanov, Vejdemo-Johansson, Alagappan, Carlsson, Carlsson: [Extracting insights from the shape of complex data using topology](https://www.nature.com/articles/srep01236)
+### Stability
+
+For Persistent Homology
+
+* Cohen-Steiner, Edelsbrunner, Harer: [Stability of Persistence Diagrams](https://link.springer.com/article/10.1007/s00454-006-1276-5)
+* Chazal, Cohen-Steiner, Glisse: [Proximity of persistence modules and their diagrams](ftp://ftp-sop.inria.fr/geometrica/dcohen/Papers/proxmod.pdf)
+* Chazal, de Silva, Glisse, Oudot: [The structure and stability of persistence modules](https://arxiv.org/pdf/1207.3674)
+* Bauer, Lesnick: [Induced Matchings and the Algebraic Stability of Persistence Barcodes](https://arxiv.org/abs/1311.3681)
+
+For Mapper and Reeb Graphs
+
+* Carrière, Oudot: [Structure and Stability of the 1-Dimensional Mapper](http://drops.dagstuhl.de/opus/volltexte/2016/5917/pdf/LIPIcs-SoCG-2016-25.pdf)
+* Carrière, Oudot: [Local Equivalence and Intrinsic Metrics between Reeb Graphs](http://drops.dagstuhl.de/opus/volltexte/2017/7179/pdf/LIPIcs-SoCG-2017-25.pdf)
+* Munch, Wang: [Convergence between Categorical Representations of Reeb Space and Mapper](http://www.sci.utah.edu/~beiwang/publications/Mapper_ReebSpace_SoCG_BeiWang_2016.pdf)
+
+### Statistics
+
+* Bubenik: [Statistical topological data analysis using persistence landscapes](http://www.jmlr.org/papers/volume16/bubenik15a/bubenik15a.pdf)
+* Turner, Mileyko, Mukherjee, Harer: [Fréchet means for distributions of persistence diagrams](https://arxiv.org/pdf/1206.2790)
+* Munch, Turner, Bendich: [Probabilistic Fréchet means for time varying persistence diagrams](http://projecteuclid.org/download/pdfview_1/euclid.ejs/1433195858)
+* Møller: [The accumulated persistence function, a new useful functional summary statistic for topological data analysis, with a view to brain artery trees and spatial point process applications](https://arxiv.org/pdf/1611.00630)
+
